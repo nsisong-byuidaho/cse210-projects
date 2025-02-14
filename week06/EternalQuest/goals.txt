@@ -1,0 +1,20 @@
+Goal Tracking System - Eternal Quest 
+
+1. Simple Goal– A one-time goal that gives points when completed.  
+   Example: Run a marathon → Earn 1000 points. 
+
+2. Eternal Goal – A recurring goal that grants points each time it’s completed.  
+   Example: Read scriptures daily → Earn 100 points per day.  
+
+3. Checklist Goal – A goal that must be completed multiple times before finishing.  
+   Example: Attend temple 10 times → Earn 50 points per visit + Bonus 500 points on the 10th visit.  
+
+  Leveling System (Exceeding Requirement!)
+- Users level up every 100 points earned.  
+- Notifications appear when leveling up.  
+- Encourages engagement and motivation in goal tracking.  
+
+  Saving & Loading Progress
+- User goals and scores are **automatically saved**.  
+- Progress can be **loaded on restart** for continued tracking.  
+
